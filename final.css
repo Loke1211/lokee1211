@@ -144,7 +144,8 @@ ul{
     margin-bottom: 10px;
 }
 .servicehead{
-    margin-left: 250px;
+    position: relative;
+    left: 180px;
 }
 .aboutus{
     width: 800px;
